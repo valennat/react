@@ -5,8 +5,8 @@ import './App.css';
 const App = () => {
   const menuItems = [
     { label: 'Integrantes', subMenuItems: ['Medrán Thelma', 'Natale Valentina', 'Rossello Nicolas', 'Marquez Ramiro', 'KKrieger Lucas'] },
-    { label: 'Item 2', subMenuItems: ['Subitem 2.1', 'Subitem 2.2'] },
-    { label: 'Item 3', subMenuItems: ['Subitem 3.1', 'Subitem 3.2', 'Subitem 3.3'] },
+    { label: 'holaaaaaa', subMenuItems: ['Subitem 2.1', 'Subitem 2.2'] },
+    { label: 'noseeeeeeeee', subMenuItems: ['Subitem 3.1', 'Subitem 3.2', 'Subitem 3.3'] },
   ];
   
   return (
